@@ -1,5 +1,6 @@
 import React from 'react'
 import Card from "../Card"
+import Navbar from "../Navbar"
 import images from "../../images.json"
 
 
@@ -20,15 +21,15 @@ class Game extends React.Component {
         var shuffledArr = []
         var imgArr = this.state.images
         while (imgArr) {
-            var randomIndex = imgArr.length*Math.random()
-            newArr.push(imgArr[randomIndex])
+            var randomIndex = imgArr.length * Math.random()
+            shuffledArr.push(imgArr[randomIndex])
             imgArr.splice(randomIndex, 1)
         }
-        this.setState({images: shuffledArr})
+        this.setState({ images: shuffledArr })
     }
 
     resetScore() {
-        this.setState({currentScore: 0})
+        this.setState({ currentScore: 0 })
     }
 
     resetImages() {
@@ -39,13 +40,13 @@ class Game extends React.Component {
             image.guessed = false
         }
 
-        this.setState({images: allImages})
+        this.setState({ images: allImages })
     }
 
     handleCorrectGuess() {
-        this.setState({currentScore: this.currentScore + 1})
+        this.setState({ currentScore: this.currentScore + 1 })
         if (this.currentScore > this.highScore) {
-            this.setState({highScore: this.currentScore})
+            this.setState({ highScore: this.currentScore })
         }
         if (this.currentScore === 12) {
             this.resetImages()
@@ -69,9 +70,14 @@ class Game extends React.Component {
 
     render() {
         return (
-            this.state.images.map(item => {
-                <Card src={item.src}/>
-            })
+            <div>
+                <Navbar currentScore={this.currentScore} highScore={this.highScore} />
+                {this.state.images.map(item => 
+                    <Card processGuess={this.processGuess} src={item.src} id={item.id} key={item.id}/>
+                )}
+            </div>
         )
     }
 }
+
+export default Game
