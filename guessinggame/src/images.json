@@ -1,1 +1,74 @@
-[]
+[
+    {
+        "id": 1,
+        "src": "../images/slasher.jpg",
+        "alt": "Hash Slinging Slasher",
+        "guessed": false
+    },
+    {
+        "id": 2,
+        "src": "../images/doodlebob.jpg",
+        "alt": "Doodlebob",
+        "guessed": false
+    },
+    {
+        "id": 3,
+        "src": "../images/gary.jpg",
+        "alt": "Gary",
+        "guessed": false
+    },
+    {
+        "id": 4,
+        "src": "../images/Krabs.png",
+        "alt": "Mr Krabs",
+        "guessed": false
+    },
+    {
+        "id": 5,
+        "src": "../images/mrspuff.png",
+        "alt": "Mrs. Puff",
+        "guessed": false
+    },
+    {
+        "id": 6,
+        "src": "../images/patrick.png",
+        "alt": "Patrick",
+        "guessed": false
+    },
+    {
+        "id": 7,
+        "src": "../images/pearl.png",
+        "alt": "Pearl",
+        "guessed": false
+    },
+    {
+        "id": 8,
+        "src": "../images/plankton.png",
+        "alt": "Pearl",
+        "guessed": false
+    },
+    {
+        "id": 9,
+        "src": "../../images/sandy.png",
+        "alt": "Sandy",
+        "guessed": false
+    },
+    {
+        "id": 10,
+        "src": "../images/spongebob.png",
+        "alt": "Spongebob",
+        "guessed": false
+    },
+    {
+        "id": 11,
+        "src": "../images/squidward.png",
+        "alt": "Squidward",
+        "guessed": false
+    },
+    {
+        "id": 12,
+        "src": "../images/waterlesssponge.jpg",
+        "alt": "Dehydrated Spongebob",
+        "guessed": false
+    }
+]

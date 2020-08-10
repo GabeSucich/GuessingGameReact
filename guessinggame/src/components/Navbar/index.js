@@ -1,13 +1,14 @@
 import React from 'react'
+import "./style.css"
 
 function Navbar(props) {
     return (
     <nav>
-        <div class="nav-wrapper">
-            <a href="#" class="brand-logo">Clicky Game</a>
-            <ul id="nav-mobile" class="right hide-on-med-and-down">
-                <li>Current Score: {props.currentScore}</li>
-                <li>High Score: {props.highScore}</li>
+        <div className="nav-wrapper purple lighten-3">
+            <ul className="left title">Clicky Game</ul>
+            <ul className="right score">
+                {console.log(props.highScore)}
+                <li >Current Score: {props.currentScore} / High Score: {props.highScore}</li>
             </ul>
         </div>
     </nav>
