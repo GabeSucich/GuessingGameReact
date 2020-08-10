@@ -52,7 +52,7 @@ class Game extends React.Component {
         if (currentScore > highScore) {
             highScore += 1
         }
-        if (this.state.currentScore === 12) {
+        if (currentScore === 12) {
             this.resetImages()
         }
         this.setState({currentScore: currentScore, highScore: highScore})
