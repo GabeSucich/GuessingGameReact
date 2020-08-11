@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GuessingGameReact/static/css/main.d92c1089.chunk.css",
+    "main.js": "/GuessingGameReact/static/js/main.de68264b.chunk.js",
+    "main.js.map": "/GuessingGameReact/static/js/main.de68264b.chunk.js.map",
+    "runtime-main.js": "/GuessingGameReact/static/js/runtime-main.78981cc8.js",
+    "runtime-main.js.map": "/GuessingGameReact/static/js/runtime-main.78981cc8.js.map",
+    "static/js/2.de61a5b7.chunk.js": "/GuessingGameReact/static/js/2.de61a5b7.chunk.js",
+    "static/js/2.de61a5b7.chunk.js.map": "/GuessingGameReact/static/js/2.de61a5b7.chunk.js.map",
+    "index.html": "/GuessingGameReact/index.html",
+    "precache-manifest.454f6245722b09514bbc5b3aa604eee8.js": "/GuessingGameReact/precache-manifest.454f6245722b09514bbc5b3aa604eee8.js",
+    "service-worker.js": "/GuessingGameReact/service-worker.js",
+    "static/css/main.d92c1089.chunk.css.map": "/GuessingGameReact/static/css/main.d92c1089.chunk.css.map",
+    "static/js/2.de61a5b7.chunk.js.LICENSE.txt": "/GuessingGameReact/static/js/2.de61a5b7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78981cc8.js",
+    "static/js/2.de61a5b7.chunk.js",
+    "static/css/main.d92c1089.chunk.css",
+    "static/js/main.de68264b.chunk.js"
+  ]
+}
