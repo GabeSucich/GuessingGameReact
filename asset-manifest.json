@@ -1,22 +1,33 @@
 {
   "files": {
     "main.css": "/derpityderp/static/css/main.d92c1089.chunk.css",
-    "main.js": "/derpityderp/static/js/main.b7d2522d.chunk.js",
-    "main.js.map": "/derpityderp/static/js/main.b7d2522d.chunk.js.map",
+    "main.js": "/derpityderp/static/js/main.497020e7.chunk.js",
+    "main.js.map": "/derpityderp/static/js/main.497020e7.chunk.js.map",
     "runtime-main.js": "/derpityderp/static/js/runtime-main.72b4cb2c.js",
     "runtime-main.js.map": "/derpityderp/static/js/runtime-main.72b4cb2c.js.map",
-    "static/js/2.de61a5b7.chunk.js": "/derpityderp/static/js/2.de61a5b7.chunk.js",
-    "static/js/2.de61a5b7.chunk.js.map": "/derpityderp/static/js/2.de61a5b7.chunk.js.map",
+    "static/js/2.0d187a80.chunk.js": "/derpityderp/static/js/2.0d187a80.chunk.js",
+    "static/js/2.0d187a80.chunk.js.map": "/derpityderp/static/js/2.0d187a80.chunk.js.map",
     "index.html": "/derpityderp/index.html",
-    "precache-manifest.02172e4df295179c56d518bf80ffbbd9.js": "/derpityderp/precache-manifest.02172e4df295179c56d518bf80ffbbd9.js",
+    "precache-manifest.2bba9ac2dfe770025446b277ac3cc9fd.js": "/derpityderp/precache-manifest.2bba9ac2dfe770025446b277ac3cc9fd.js",
     "service-worker.js": "/derpityderp/service-worker.js",
     "static/css/main.d92c1089.chunk.css.map": "/derpityderp/static/css/main.d92c1089.chunk.css.map",
-    "static/js/2.de61a5b7.chunk.js.LICENSE.txt": "/derpityderp/static/js/2.de61a5b7.chunk.js.LICENSE.txt"
+    "static/js/2.0d187a80.chunk.js.LICENSE.txt": "/derpityderp/static/js/2.0d187a80.chunk.js.LICENSE.txt",
+    "static/media/Krabs.png": "/derpityderp/static/media/Krabs.6f7e3c16.png",
+    "static/media/doodlebob.jpg": "/derpityderp/static/media/doodlebob.36d91826.jpg",
+    "static/media/gary.jpg": "/derpityderp/static/media/gary.b4721e05.jpg",
+    "static/media/mrspuff.png": "/derpityderp/static/media/mrspuff.65604193.png",
+    "static/media/patrick.png": "/derpityderp/static/media/patrick.2551217d.png",
+    "static/media/plankton.png": "/derpityderp/static/media/plankton.a8433da6.png",
+    "static/media/sandy.png": "/derpityderp/static/media/sandy.2eafb241.png",
+    "static/media/slasher.jpg": "/derpityderp/static/media/slasher.07c5dd6f.jpg",
+    "static/media/spongebob.png": "/derpityderp/static/media/spongebob.18fe0216.png",
+    "static/media/squidward.png": "/derpityderp/static/media/squidward.7ef3a43e.png",
+    "static/media/waterlesssponge.jpg": "/derpityderp/static/media/waterlesssponge.9c013bed.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.72b4cb2c.js",
-    "static/js/2.de61a5b7.chunk.js",
+    "static/js/2.0d187a80.chunk.js",
     "static/css/main.d92c1089.chunk.css",
-    "static/js/main.b7d2522d.chunk.js"
+    "static/js/main.497020e7.chunk.js"
   ]
 }
