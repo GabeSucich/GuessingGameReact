@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "922439575ae40a4fe8bc576e2f6af6d0",
+    "revision": "dd70272d74e1e0ae3119f6286e88d035",
     "url": "/derpityderp/index.html"
   },
   {
-    "revision": "ac8f21e5630dcdf8f9ba",
+    "revision": "a586e6f38f4be5ed5384",
     "url": "/derpityderp/static/css/main.d92c1089.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/derpityderp/static/js/2.0d187a80.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ac8f21e5630dcdf8f9ba",
-    "url": "/derpityderp/static/js/main.497020e7.chunk.js"
+    "revision": "a586e6f38f4be5ed5384",
+    "url": "/derpityderp/static/js/main.0b15fc2d.chunk.js"
   },
   {
     "revision": "f79c5f8dca18ddea34b0",

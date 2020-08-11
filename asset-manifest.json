@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/derpityderp/static/css/main.d92c1089.chunk.css",
-    "main.js": "/derpityderp/static/js/main.497020e7.chunk.js",
-    "main.js.map": "/derpityderp/static/js/main.497020e7.chunk.js.map",
+    "main.js": "/derpityderp/static/js/main.0b15fc2d.chunk.js",
+    "main.js.map": "/derpityderp/static/js/main.0b15fc2d.chunk.js.map",
     "runtime-main.js": "/derpityderp/static/js/runtime-main.72b4cb2c.js",
     "runtime-main.js.map": "/derpityderp/static/js/runtime-main.72b4cb2c.js.map",
     "static/js/2.0d187a80.chunk.js": "/derpityderp/static/js/2.0d187a80.chunk.js",
     "static/js/2.0d187a80.chunk.js.map": "/derpityderp/static/js/2.0d187a80.chunk.js.map",
     "index.html": "/derpityderp/index.html",
-    "precache-manifest.2bba9ac2dfe770025446b277ac3cc9fd.js": "/derpityderp/precache-manifest.2bba9ac2dfe770025446b277ac3cc9fd.js",
+    "precache-manifest.ec01e61cbc12f559868010635500af29.js": "/derpityderp/precache-manifest.ec01e61cbc12f559868010635500af29.js",
     "service-worker.js": "/derpityderp/service-worker.js",
     "static/css/main.d92c1089.chunk.css.map": "/derpityderp/static/css/main.d92c1089.chunk.css.map",
     "static/js/2.0d187a80.chunk.js.LICENSE.txt": "/derpityderp/static/js/2.0d187a80.chunk.js.LICENSE.txt",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.72b4cb2c.js",
     "static/js/2.0d187a80.chunk.js",
     "static/css/main.d92c1089.chunk.css",
-    "static/js/main.497020e7.chunk.js"
+    "static/js/main.0b15fc2d.chunk.js"
   ]
 }
