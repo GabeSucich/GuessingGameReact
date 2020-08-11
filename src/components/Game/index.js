@@ -1,9 +1,10 @@
 import React from 'react'
 import Card from "../Card"
 import Navbar from "../Navbar"
-import images from "../../images.json"
+import images from "./images.json"
 import "./style.css"
 
+console.log(images)
 class Game extends React.Component {
 
     state = {
@@ -78,6 +79,10 @@ class Game extends React.Component {
         this.shuffleCards()
     }
 
+    getSRC(src) {
+        return require("../../../public/images/" + src)
+    }
+
     render() {
         return (
             <div>
@@ -85,7 +90,7 @@ class Game extends React.Component {
                 <div className="container pic-div">
                     <div className="row">
                         {this.state.images.map(item =>
-                            <Card onClick={() => this.processGuess(item.id)} src={item.src} alt={item.alt} key={item.id} />
+                            <Card onClick={() => this.processGuess(item.id)} src={this.getSRC(item.src)} alt={item.alt} key={item.id} />
                         )}
                     </div>
                 </div>
