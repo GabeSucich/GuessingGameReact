@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0b90c8f1cd913f6a9a69149a4f776cf5",
+    "revision": "c1b4ca976cce0ec459dd0633210d6c19",
     "url": "/GuessingGameReact/index.html"
   },
   {
-    "revision": "a586e6f38f4be5ed5384",
-    "url": "/GuessingGameReact/static/css/main.d92c1089.chunk.css"
+    "revision": "6f777d9a4f7e0fa6c2bb",
+    "url": "/GuessingGameReact/static/css/main.2af49543.chunk.css"
   },
   {
     "revision": "8af45ce1474ed91ceef2",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/GuessingGameReact/static/js/2.0d187a80.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a586e6f38f4be5ed5384",
+    "revision": "6f777d9a4f7e0fa6c2bb",
     "url": "/GuessingGameReact/static/js/main.0b15fc2d.chunk.js"
   },
   {

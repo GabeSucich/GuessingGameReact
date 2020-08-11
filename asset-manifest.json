@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/GuessingGameReact/static/css/main.d92c1089.chunk.css",
+    "main.css": "/GuessingGameReact/static/css/main.2af49543.chunk.css",
     "main.js": "/GuessingGameReact/static/js/main.0b15fc2d.chunk.js",
     "main.js.map": "/GuessingGameReact/static/js/main.0b15fc2d.chunk.js.map",
     "runtime-main.js": "/GuessingGameReact/static/js/runtime-main.78981cc8.js",
@@ -8,9 +8,9 @@
     "static/js/2.0d187a80.chunk.js": "/GuessingGameReact/static/js/2.0d187a80.chunk.js",
     "static/js/2.0d187a80.chunk.js.map": "/GuessingGameReact/static/js/2.0d187a80.chunk.js.map",
     "index.html": "/GuessingGameReact/index.html",
-    "precache-manifest.e19f18fc64be5a2dbc01f87c47ab51b2.js": "/GuessingGameReact/precache-manifest.e19f18fc64be5a2dbc01f87c47ab51b2.js",
+    "precache-manifest.179ab8f629e47b7be7a7ba2ceff77c77.js": "/GuessingGameReact/precache-manifest.179ab8f629e47b7be7a7ba2ceff77c77.js",
     "service-worker.js": "/GuessingGameReact/service-worker.js",
-    "static/css/main.d92c1089.chunk.css.map": "/GuessingGameReact/static/css/main.d92c1089.chunk.css.map",
+    "static/css/main.2af49543.chunk.css.map": "/GuessingGameReact/static/css/main.2af49543.chunk.css.map",
     "static/js/2.0d187a80.chunk.js.LICENSE.txt": "/GuessingGameReact/static/js/2.0d187a80.chunk.js.LICENSE.txt",
     "static/media/Krabs.png": "/GuessingGameReact/static/media/Krabs.6f7e3c16.png",
     "static/media/doodlebob.jpg": "/GuessingGameReact/static/media/doodlebob.36d91826.jpg",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.78981cc8.js",
     "static/js/2.0d187a80.chunk.js",
-    "static/css/main.d92c1089.chunk.css",
+    "static/css/main.2af49543.chunk.css",
     "static/js/main.0b15fc2d.chunk.js"
   ]
 }
